@@ -1,0 +1,27 @@
+# Local environments and generated build output
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+build/
+dist/
+release/
+*.spec
+*.exe
+
+# Downloaded and generated material assets
+Converted/
+*.zip
+*.7z
+*.dds*
+*.tif
+*.tiff
+*.mtl
+rc_*
+
+# Editor and OS state
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini

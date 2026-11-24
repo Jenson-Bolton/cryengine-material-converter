@@ -1,0 +1,4 @@
+numpy==2.5.5
+OpenImageIO==3.2.2.0
+pillow==13.0.0
+tifffile==2026.11.16
